@@ -2,6 +2,15 @@
 
 A minimal, production-ready MVP for community verification of wildfire detections in Greece.
 
+---
+title: Hellas Firewatch
+emoji: 🔥
+colorFrom: orange
+colorTo: red
+sdk: docker
+app_port: 7860
+---
+
 ## What you get
 - FastAPI backend (SQLite by default; easy to switch to Postgres/Supabase later)
 - Leaflet + OpenStreetMap frontend (no paid maps, no Node build step)
